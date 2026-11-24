@@ -1,47 +1,119 @@
 asin;titolo;categoria;descrizione
-B0DX1GQK9J;Cosori Turbo Blaze, friggitrice ad aria da 6 litri;casa-cucina;Cestello capiente per 4-6 persone, con cottura rapida e programmi preimpostati.
-B0BPZSVH6S;Cecotec Cecofry Fantastik 5500, friggitrice ad aria da 5,5 litri;casa-cucina;Modello economico con cestello quadrato, adatto a famiglie piccole.
-B0CWP6KQ4D;Philips Airfryer Serie 2000, friggitrice ad aria da 4,2 litri;casa-cucina;Compatta, per una o due persone, con cestello lavabile in lavastoviglie.
-B0CZXXVKS7;Ninja MAX PRO, friggitrice ad aria formato famiglia;casa-cucina;Cestello grande e più funzioni oltre alla frittura: arrosto, cottura al forno, disidratazione.
+B0H62JRN6V;Google Pixel 11 Pro 256 GB, smartphone Android;tech;Top di gamma Google con fotocamere avanzate e aggiornamenti software per molti anni.
+B0H62MKPHL;Google Pixel 11 Pro 512 GB, smartphone Android;tech;Stesso Pixel 11 Pro con più memoria, per chi scatta molte foto e video.
+B0GMHTMV1X;Samsung Galaxy A37 5G 128 GB, smartphone;tech;Smartphone di fascia media con schermo ampio e batteria che dura tutto il giorno.
+B0FQFJRZNZ;Apple iPhone 17 256 GB, smartphone;tech;L'iPhone base dell'ultima generazione, con spazio sufficiente per app e foto.
+B0HJWNKM3S;Huawei FreeBuds SE 5 Max, auricolari wireless;tech;Auricolari leggeri per musica e chiamate, con custodia di ricarica tascabile.
+B0FQF32239;Apple AirPods Pro 3, auricolari con cancellazione del rumore;tech;Auricolari Apple con cancellazione attiva del rumore e ricarica USB-C.
+B0HJB6SQS3;Apple AirPods 5, auricolari wireless;tech;Auricolari Apple aperti, comodi per l'uso quotidiano con iPhone.
+B0DGHXBDQQ;Apple AirPods Max, cuffie over-ear wireless;tech;Cuffie Apple di fascia alta con cancellazione del rumore e audio spaziale.
+B0D37H1T6H;Sonos Ace, cuffie wireless con cancellazione del rumore;tech;Cuffie over-ear comode, utili anche come audio per la TV Sonos.
+B0CJ3H9XD9;Sony INZONE H5, cuffie gaming wireless;tech;Cuffie da gioco leggere con microfono, per PC e PlayStation.
+B0GMKJ31QC;Amazon Echo Dot ultimo modello, altoparlante intelligente;tech;Piccolo altoparlante con Alexa per musica, sveglie e casa connessa.
+B09B8X9RGM;Amazon Echo Dot 2022, altoparlante intelligente;tech;Altoparlante compatto con Alexa, adatto a camera o cucina.
+B0F5FXBZLC;Amazon Kids Tablet 11, tablet per bambini;tech;Tablet con custodia robusta e contenuti pensati per i più piccoli.
+B0H37KKLCQ;ASUS V16 V3607VH, notebook da 16 pollici con RTX 5050;tech;Portatile con scheda video dedicata, per studio, lavoro e giochi leggeri.
+B0H5KB4Z5H;Dell 15 con Intel Core i5, notebook da 15 pollici;tech;Portatile classico per ufficio, scuola e navigazione.
+B0F6TNFGF2;MSI Vector 18 HX AI, notebook gaming da 18 pollici;tech;Portatile da gioco potente con schermo molto grande.
+B0D4VZ3VMB;Samsung Galaxy Book4 Edge, notebook leggero;tech;Portatile sottile con lunga autonomia, comodo da portare in giro.
+B0H75ZMQ2T;Lenovo IdeaPad 5 2in1, notebook convertibile;tech;Portatile con schermo touch che si ripiega e diventa tablet.
+B0GQZ8PM63;HP OmniBook 7 14 pollici, notebook;tech;Portatile da 14 pollici leggero, per lavoro e studio.
+B0HPGTKTF3;Apple MacBook Pro 14 pollici con chip M6;tech;Portatile Apple per lavori impegnativi come foto, video e sviluppo.
+B0HPGQTPLH;Apple iMac 24 pollici con chip M6;tech;Computer tutto in uno con schermo integrato, per casa e ufficio.
+B0HGGKGRVR;Apple Mac mini con chip M6, 256 GB;tech;Computer desktop compatto da collegare a monitor, tastiera e mouse.
+B0GRJBWWQ8;Lenovo IdeaCentre All-In-One 27 pollici, PC desktop;tech;PC tutto in uno con grande schermo, ordinato sulla scrivania.
+B0GQVLW917;Apple iPad Air 11 pollici con chip M4, 128 GB;tech;Tablet sottile e veloce per studio, disegno e intrattenimento.
+B0DZ768LXJ;Apple iPad 11 pollici con chip A16, 128 GB;tech;L'iPad di base, per navigare, leggere e guardare video.
+B0D3J7CKFR;Apple Pencil Pro, penna per iPad;tech;Penna per disegnare e prendere appunti sugli iPad compatibili.
+B0FQFHY7BC;Apple Watch Ultra 3 GPS + Cellular, smartwatch da 49 mm;tech;Smartwatch robusto per sport all'aperto, con connessione cellulare.
+B0FBH25WV3;Samsung Galaxy Watch8 40 mm, smartwatch;tech;Smartwatch per telefoni Android, con monitoraggio di sonno e attività.
+B0GJTFY58R;Apple AirTag seconda generazione, localizzatore;tech;Piccolo localizzatore da attaccare a chiavi, borse e valigie.
+B0GWN36S8N;LG OLED evo C6 65 pollici, smart TV 4K;tech;TV OLED con neri profondi, adatta a film e console di gioco.
+B0GXWKQW5M;Samsung Micro RGB 75 pollici, smart TV 4K;tech;Televisore molto grande con colori brillanti, per il soggiorno.
+B0GS6TRYWJ;LG UltraGear 39GX950B, monitor gaming OLED da 39 pollici;tech;Monitor curvo e ultralargo per giocare e lavorare con più finestre.
+B0FJ2DJLQL;Samsung Smart Monitor M5 32 pollici;tech;Monitor che funziona anche da TV con app di streaming integrate.
+B0FHHSZ8WM;Logitech MX Master 4, mouse wireless ergonomico;tech;Mouse comodo per lunghe sessioni di lavoro, con rotella veloce.
+B07W7MJ46M;Logitech G502 X Plus, mouse gaming wireless;tech;Mouse da gioco con molti tasti programmabili e luci RGB.
+B087DFLF9S;Samsung T7 1 TB, SSD esterno portatile;tech;Disco esterno veloce e piccolo per backup e file pesanti.
+B0C3ZJ8T6F;Acer Predator GM7 1 TB, SSD NVMe;tech;Unità interna veloce per aggiornare PC o console.
+B0F6CR39WR;UGREEN NASync DH4300 Plus, NAS a 4 dischi;tech;Archivio di rete per foto e documenti di famiglia, dischi esclusi.
+B0FCSSNXT4;HP DeskJet 2920, stampante multifunzione;tech;Stampante semplice per casa: stampa, copia e scansiona.
+B0B7NTY2S6;SanDisk Ultra 128 GB, scheda microSDXC;tech;Memoria aggiuntiva per telefoni, tablet e console portatili.
+B0FLYDWQDZ;Ray-Ban Meta Wayfarer Gen 2, occhiali smart;tech;Occhiali con fotocamera, audio e assistente vocale integrati.
+B0G6WRQNQL;Antigravity A1, drone FPV con fotocamera 8K;tech;Drone per riprese immersive a 360 gradi, con visore incluso.
+B0DWSQPHY8;Reolink Elite Pro Floodlight PoE, telecamera da esterno;tech;Telecamera con faro per sorvegliare cortile o ingresso.
+B0HDPVRXXZ;SwitchBot Lock Ultra con tastierino Vision Pro, serratura smart;tech;Serratura che si apre con telefono, codice o riconoscimento del volto.
+B0F3XM5VCH;Oral-B iO 3, spazzolino elettrico;tech;Spazzolino elettrico con sensore di pressione, per una pulizia accurata.
+B0F2J91B18;Oral-B iO 2, spazzolino elettrico;tech;Spazzolino elettrico di ingresso della serie iO, semplice da usare.
+B0DQWLG36G;Braun Serie 7 AIO7545, rasoio elettrico;tech;Rasoio con testina flessibile e accessori per barba e corpo.
+B0GMHCMVCP;Philips OneBlade Original 360, regolabarba e rasoio;tech;Per rifinire, regolare e radere la barba con un solo apparecchio.
+B0DZWG2RC5;Dyson Supersonic Nural, asciugacapelli;tech;Asciugacapelli che regola il calore in base alla distanza dai capelli.
+B0CCYPDLCQ;ghd Gold, piastra per capelli professionale;tech;Piastra per lisciare e creare onde, con temperatura costante.
+B0G4CNSZ35;Braun Silk-Expert Pro 5 PL5321, epilatore a luce pulsata;tech;Dispositivo per ridurre la ricrescita dei peli a casa.
 B0DTTTWYQT;Cosori TwinFry, friggitrice ad aria doppia da 10 litri;casa-cucina;Due cestelli separabili per cuocere due cibi diversi nello stesso momento.
-B0CZY23DYB;Ninja Double Stack XL, friggitrice ad aria verticale;casa-cucina;Due cestelli impilati: tanto spazio di cottura in poco piano di lavoro.
-B0B8J4Z5DW;Moulinex Easy Fry & Grill XXL, friggitrice ad aria con griglia;casa-cucina;Friggitrice capiente con piastra grill per carne e verdure.
-B007KIVDLK;Bosch MSM66120, frullatore a immersione;casa-cucina;Minipimer classico con bicchiere graduato, per zuppe, frullati e salse.
-B075FW6DBB;Moulinex Quickchef 3 in 1, frullatore a immersione con accessori;casa-cucina;Con frusta e tritatutto: frulla, monta e trita con un solo apparecchio.
-B09NCB3S3B;Kenwood Triblade XL+, frullatore a immersione;casa-cucina;Lama a tre punte e accessori per tritare e montare.
-B0D5YR2Y3Q;Kenwood MultiPro Compact, robot da cucina;casa-cucina;Robot compatto per affettare, grattugiare, impastare e frullare.
-B075XN9MRG;Kenwood Multipro FDM301SS, robot da cucina;casa-cucina;Robot multifunzione con frullatore e numerosi dischi.
+B0DKKH9H5V;Philips Airfryer Serie 1000, friggitrice ad aria da 7,1 litri;casa-cucina;Cestello grande per famiglie, con programmi semplici.
 B08Y8VNHX6;Kenwood Chef XL KVL4100W, impastatrice planetaria;casa-cucina;Planetaria con ciotola grande per impasti di pane, pizza e dolci.
-B089KTWM77;Girmi IM46, impastatrice planetaria da 8 litri;casa-cucina;Planetaria economica con ciotola capiente e tre fruste.
-B00OIZONJC;De'Longhi Sfornatutto EO14902.W, fornetto elettrico;casa-cucina;Fornetto ventilato da 14 litri per pizze, gratin e piccole cotture.
-B01KYFJ3ZS;Moulinex Optimo OX4858, forno elettrico ventilato da 39 litri;casa-cucina;Forno grande da appoggio, alternativa al forno tradizionale.
-B0BRKY97DJ;Hisense H20MOBP1, forno a microonde;casa-cucina;Microonde da 20 litri, semplice, con comandi meccanici.
-B007HMTKU0;Severin AT 2509, tostapane 4 fette;casa-cucina;Due fessure lunghe per quattro fette o pane in cassetta grande.
-B075FC8ZJ3;Philips Daily Collection, bollitore elettrico in metallo;casa-cucina;Bollitore da 1,7 litri con spegnimento automatico.
-B00JS87PR6;Moulinex Ultra Compact PC1208, spremiagrumi elettrico;casa-cucina;Spremiagrumi piccolo da tenere sempre sul piano di lavoro.
-B07PZQ55PC;G3 Ferrari Pizza Express Delizia, forno per pizza;casa-cucina;Forno elettrico con pietra refrattaria per la pizza fatta in casa.
-B0DJ3284BS;Roborock Saros 10R, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con stazione di svuotamento e lavaggio dei panni.
-B0FS16B394;Roborock Qrevo Curv 2 Flow, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con rullo lavante e stazione automatica.
-B0DCVYS9FQ;Dreame L10s Ultra Gen 2, robot aspirapolvere e lavapavimenti;casa-cucina;Stazione che svuota, lava e asciuga i panni da sola.
-B0DY8V59LY;Dreame L40s Pro Ultra, robot aspirapolvere e lavapavimenti;casa-cucina;Robot di fascia alta con braccio per gli angoli e stazione completa.
-B0DK8BDWXB;Lefant robot aspirapolvere e lavapavimenti con mappatura;casa-cucina;Robot economico con mappatura laser della casa.
-B0F1SWS24N;Ecovacs Deebot X9 Pro Omni, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con rullo lavante e stazione di pulizia automatica.
-B0DWX6HRZN;Narwal Freo Z10, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con stazione e riconoscimento dello sporco.
+B09HR5LF2M;Electrolux Create 5, impastatrice planetaria;casa-cucina;Planetaria per impastare, montare e mescolare con meno fatica.
+B0CQPN4ZT3;De'Longhi Nespresso Pixie EN127.S, macchina per caffè in capsule;casa-cucina;Macchina compatta per caffè in capsule Nespresso, pronta in pochi secondi.
+B0016H2PLS;Bialetti Moka Express 4 tazze, caffettiera;casa-cucina;La moka classica in alluminio per il caffè fatto sul fornello.
+B0HBVJZ436;AMZCHEF, estrattore di succo a freddo;casa-cucina;Estrattore lento per succhi di frutta e verdura.
+B00IU2TMNQ;Schütte London, miscelatore per lavello da cucina;casa-cucina;Rubinetto da cucina con canna alta e girevole.
+B0BVRMW1XF;Severin MW 7886, forno a microonde da 17 litri;casa-cucina;Microonde piccolo per scaldare e scongelare.
+B0CZXR3Y9C;Electrolux Serie 300, forno da incasso da 68 litri;casa-cucina;Forno elettrico da incasso per la cucina di tutti i giorni.
+B0B183FFBF;Comfee, cappa aspirante da 60 cm;casa-cucina;Cappa per piano cottura standard, aspira fumi e odori.
+B0BT4V86YQ;Bosch KGN394ICF, frigorifero combinato;casa-cucina;Frigo con congelatore in basso e sistema No Frost.
+B0CP4B26X4;Candy Rapido', lavastoviglie da 60 cm;casa-cucina;Lavastoviglie a libera installazione con lavaggi rapidi.
+B0GZPD6BKB;Candy ProWash 300, lavatrice da 7 kg;casa-cucina;Lavatrice a carica frontale per famiglie piccole.
+B0HD7G87ZC;LG AI Dry RNX59TLBAI, asciugatrice da 9 kg;casa-cucina;Asciugatrice a pompa di calore con programmi automatici.
+B0DT9SM62M;Samsung Crystal EcoDry DV90DG52A0TE, asciugatrice;casa-cucina;Asciugatrice a pompa di calore, delicata con i capi.
+B0DCB9C26S;Hisense DHQE800BW2, asciugatrice da 8 kg;casa-cucina;Asciugatrice a pompa di calore dai consumi contenuti.
+B09PYXMX5C;Philips PerfectCare Serie 6000, ferro con caldaia;casa-cucina;Ferro da stiro con generatore di vapore, senza regolare la temperatura.
+B0CF2DJHFQ;Philips Serie 1000, levapelucchi ricaricabile;casa-cucina;Toglie pallini e pelucchi da maglioni e tessuti.
+B0GX6QQ68P;Dyson Cyclone V10, aspirapolvere senza filo;casa-cucina;Scopa elettrica potente, utilizzabile anche come aspirapolvere a mano.
+B0DPPLWYGX;Tineco Floor ONE S7 Stretch Ultra, lavapavimenti senza fili;casa-cucina;Aspira e lava insieme, e si piega per passare sotto i mobili.
+B0F8VMX2VP;Tineco Floor ONE Switch S7 Stretch, lavapavimenti senza fili;casa-cucina;Lavapavimenti che diventa anche aspirapolvere.
+B0F8QPWPL7;Tineco Floor ONE i6 Stretch, lavapavimenti senza fili;casa-cucina;Lavapavimenti leggera con autopulizia del rullo.
 B0CRR9KDK8;Tineco iFloor 5 Breeze, lavapavimenti senza fili;casa-cucina;Aspira e lava insieme, con autopulizia del rullo.
-B0915C748N;Tineco Floor One S5, lavapavimenti senza fili;casa-cucina;Lavapavimenti con sensore dello sporco e autopulizia.
-B0FGXNHQJZ;Dreame H15 Mix, lavapavimenti senza fili;casa-cucina;Lavapavimenti che si trasforma anche in aspirapolvere.
-B0DPHT4KB1;Roborock F25 GT, lavapavimenti senza fili;casa-cucina;Lavapavimenti con autopulizia e asciugatura del rullo.
-B0FLK83CMY;CMF Headphone Pro, cuffie wireless;tech;Cuffie over-ear con cancellazione del rumore e lunga autonomia.
-B0FJGBDM28;Google Pixel Buds 2a, auricolari wireless;tech;Auricolari leggeri con cancellazione del rumore.
-B0BZV4QFP8;Soundcore Liberty 4 NC, auricolari con cancellazione del rumore;tech;Auricolari con buona cancellazione del rumore e custodia di ricarica.
-B0F66NH2ZX;Anker Prime, power bank da 20.000 mAh;tech;Batteria esterna con ricarica rapida per telefono e portatile.
-B0F66TFJY3;CMF Watch 3 Pro, smartwatch;tech;Smartwatch con GPS e schermo AMOLED.
-B0FKN66V5C;Laifen T1 Pro, rasoio elettrico;tech;Rasoio compatto con testine oscillanti.
-B0CWR1T1L8;Laifen Wave, spazzolino elettrico;tech;Spazzolino elettrico con movimento oscillante e vibrante.
-B00IJNKYE2;Dr. Martens, stivaletti bassi da donna;moda-scarpe;Lo stivaletto classico in pelle con la suola ad aria.
-B0DK5284BB;Adidas Grand Court, sneakers da donna;moda-scarpe;Sneakers basse in stile tennis, facili da abbinare.
-B0DYQD5NGC;Skechers, stivaletto basso con interno morbido;moda-scarpe;Stivaletto invernale caldo e leggero.
-B0CN3VMBJR;Columbia, piumino lungo da donna;moda-scarpe;Piumino caldo per l'inverno, con cappuccio.
-B07PP93NJ1;Only, cappotto lungo da donna;moda-scarpe;Cappotto classico color panna.
-B0BNGS7HC6;Only, jeans baggy da donna;moda-scarpe;Jeans larghi a vita alta, lavaggio chiaro.
-B0DNNX1PB5;Levi's, jeans neri a zampa da donna;moda-scarpe;Jeans svasati neri dal taglio classico.
+B0DJ3284BS;Roborock Saros 10R, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con stazione di svuotamento e lavaggio dei panni.
+B0H83J9FWG;Roborock Saros 20 Flow Complete, robot aspirapolvere e lavapavimenti;casa-cucina;Robot di fascia alta con rullo lavante e stazione automatica.
+B0H4FFNW2Q;Roborock Saros 20 Neo, robot aspirapolvere e lavapavimenti;casa-cucina;Versione più semplice della serie Saros 20, con stazione.
+B0GHN9DR1C;Roborock Qrevo S Pro, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con stazione che svuota e lava i panni da sola.
+B0GMH56TRH;Roborock Qrevo Edge 2, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con mop che arriva vicino ai bordi e negli angoli.
+B0GZZM4CXF;Roborock Qrevo 2 Pro, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con stazione completa per la pulizia quotidiana.
+B0DWMPQ337;Roborock Q7 L5+, robot aspirapolvere e lavapavimenti;casa-cucina;Robot economico con base di svuotamento automatico.
+B0HBCD8SS5;Dreame L60 Ultra CE, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con stazione che lava e asciuga i panni.
+B0GSWYM8Q2;Dreame X60 Pro Ultra Complete, robot aspirapolvere e lavapavimenti;casa-cucina;Robot di fascia alta con braccio per gli angoli e stazione completa.
+B0DPB7RN2L;Dreame X50 Ultra Complete, robot aspirapolvere e lavapavimenti;casa-cucina;Robot capace di superare soglie e piccoli gradini.
+B0H2F5YPTN;Dreame L50s Pro Ultra, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con stazione automatica e mop estensibile.
+B0H2FPG8NY;Dreame L10s Ultra Gen 3, robot aspirapolvere e lavapavimenti;casa-cucina;Robot di fascia media con stazione che lava i panni.
+B0GSRVQB6D;Dreame L40 Ultra A, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con stazione completa e buona aspirazione.
+B0GQTFHB2N;Ecovacs Deebot T50 Pro Omni Gen3, robot aspirapolvere e lavapavimenti;casa-cucina;Robot sottile che passa sotto i mobili bassi.
+B0H94KQLMJ;Ecovacs Deebot T90S Pro Omni, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con rullo lavante e stazione di pulizia automatica.
+B0H9RNX24M;Ecovacs Deebot T90 Max Pro Omni, robot aspirapolvere e lavapavimenti;casa-cucina;Robot di fascia alta con stazione automatica.
+B0GCFH4M8Q;Ecovacs Winbot W3 Omni, robot lavavetri;casa-cucina;Robot che pulisce i vetri delle finestre da solo.
+B0GRHDJBQ6;Narwal Flow 2, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con mop a rullo e lavaggio con acqua pulita.
+B0H416DF3N;Narwal Freo 20, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con stazione e riconoscimento dello sporco.
+B0GWJYLKPK;Mova Z70 Ultra Roller Complete, robot aspirapolvere e lavapavimenti;casa-cucina;Robot con rullo lavante e braccio per raccogliere oggetti.
+B0H8DJ99LD;DJI Romo P2, robot aspirapolvere e lavapavimenti;casa-cucina;Robot di DJI con sensori avanzati e stazione automatica.
+B0GQVBWMN8;iRobot Roomba 115 Combo, robot aspirapolvere e lavapavimenti;casa-cucina;Robot semplice che aspira e passa il panno.
+B09NNWTVJG;Einhell TE-CD 18/2 Li-i, trapano avvitatore a percussione;fai-da-te;Trapano a batteria con accessori, per lavori di casa e piccole riparazioni.
+B07TFHGZXF;Black+Decker BCF611CK, svitavvita a batteria;fai-da-te;Avvitatore compatto per montare mobili e lavoretti veloci.
+B0BV25ZGP6;Einhell TC-RS 425 E, levigatrice eccentrica;fai-da-te;Per levigare legno e vernici prima di dipingere.
+B00NSWV0TC;Bosch PHO 1500, pialletto elettrico;fai-da-te;Pialla porte, assi e travetti in legno.
+B0CHB9HGB8;Bosch EasyChain 18V-15-7, mini motosega a batteria;fai-da-te;Piccola sega a catena per potare rami e tagliare legna sottile.
+B0GBYKQZBH;Kärcher K 5 Comfort Premium, idropulitrice;fai-da-te;Per lavare auto, terrazzi, muretti e mobili da giardino.
+B0FSZ7D9VR;Greenworks 24V, tagliaerba a batteria;fai-da-te;Tosaerba senza filo per prati piccoli.
+B0DR35G7P3;Dreame A1 Pro, robot tagliaerba;fai-da-te;Robot che taglia il prato da solo senza filo perimetrale.
+B0B8N12LXB;HOTO, misuratore laser da 30 metri;fai-da-te;Metro laser tascabile per misurare stanze e pareti.
+B07DM29LM2;Vimar K40911, kit videocitofono bifamiliare;fai-da-te;Videocitofono per due appartamenti, con posto esterno e monitor.
+B0C2ZBD1KQ;BTicino Easykit Essential 317913, kit videocitofono;fai-da-te;Videocitofono semplice da installare per una casa singola.
+B0CLV9ZG9M;EZVIZ CP7, videocitofono cablato 2K;fai-da-te;Videocitofono con schermo e app per rispondere dal telefono.
+B0HDTFLKND;70mai A900, dash cam doppia per auto;fai-da-te;Telecamera per auto che registra davanti e dietro.
+B0FQJY8LJ6;70mai T800E, dash cam a tre canali per auto;fai-da-te;Registra strada, abitacolo e retro, utile per chi guida molto.
+B0DX3RP6YH;Skechers Keepsakes Lite Winter Snug, stivali da donna;moda-scarpe;Stivali invernali morbidi e leggeri, con interno caldo.
+B07B9VT8QT;Skechers Go Walk, stivaletti da donna;moda-scarpe;Stivaletti comodi per camminare molto in inverno.
+B0CV9LDB83;Skechers Trego, stivaletti da donna;moda-scarpe;Stivaletti con suola robusta, adatti anche a sentieri facili.
+B0DW59WXCN;Skechers Glacial Getaway, stivaletto da donna;moda-scarpe;Stivaletto caldo per le giornate fredde in città.
+B0B8HHHL6N;Skechers Texas Rodeo, stivali da donna;moda-scarpe;Stivali in stile western con soletta imbottita.
+B098SL4CZN;Levi's 505 Regular Fit, jeans da uomo;moda-scarpe;Jeans dal taglio dritto e comodo, un classico da tutti i giorni.
+B0CLWSXB65;Columbia Landroamer Duffel, borsa da viaggio;moda-scarpe;Borsone resistente per weekend, palestra e viaggi brevi.
